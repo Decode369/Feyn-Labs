@@ -1,2 +1,2 @@
-# Feyn Labs
+# Feynn Labs
  Internship
